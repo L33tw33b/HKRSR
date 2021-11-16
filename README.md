@@ -1,8 +1,6 @@
-# Tensorflow Object Detection Walkthrough
+# HKRSR (Hong Kong Road Sign Recognition) 
+<p>Credits goes to:<a href="https://github.com/nicknochnack">Nicholas Renotte</a>. 
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
-<img src="https://i.imgur.com/H3tUyKM.png">
-
-## Steps
 <br />
 <b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
 <br/><br/>
