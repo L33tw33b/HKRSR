@@ -7,6 +7,14 @@ ITP4514 EA Project Groupmates:
 <a href="https://github.com/kasen724">kasen</a> <br>
 <a href="https://github.com/nog19630">nog19630</a> <br>
 <hr>
+<b>User Guide</b>
+<b>Step 1.</b> Clone this repository
+<br/><br/>
+<b>Step 2.</b> Run this command inside the directory
+<pre>
+.\tfod\Scripts\Activate
+</pre>
+<hr>
 <p>Credits goes to:<a href="https://github.com/nicknochnack">Nicholas Renotte</a>. 
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
 <br />

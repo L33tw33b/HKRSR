@@ -1,4 +1,12 @@
-/tfod/Lib/site-packages
+
+/tfod/Lib/site-packages/*
+#Exception for site-packages
+!/tfod/Lib/site-packages/pip
+!/tfod/Lib/site-packages/pip-21.3.1.dist-info
+!/tfod/Lib/site-packages/pkg_resources
+!/tfod/Lib/site-packages/setuptools
+!/tfod/Lib/site-packages/setuptools-59.0.1.dist-info
+
 #/Tensorflow
 /.ipynb_checkpoints
 /ipynb_checkpoints
