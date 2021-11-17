@@ -1,0 +1,38 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>chrome_Gl8nwhaVcg.jpg</filename>
+	<path>C:\Users\ronal\Desktop\SchoolWork_Archives\ITP4514\Hong Kong Sign Recong\TFODCourse\Tensorflow\workspace\images\collectedimages\chrome_Gl8nwhaVcg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BendToLeft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>505</ymin>
+			<xmax>666</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>BendToLeft</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1654</xmin>
+			<ymin>554</ymin>
+			<xmax>1795</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+</annotation>

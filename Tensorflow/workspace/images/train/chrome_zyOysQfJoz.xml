@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>chrome_zyOysQfJoz.jpg</filename>
+	<path>C:\Users\ronal\Desktop\SchoolWork_Archives\ITP4514\Hong Kong Sign Recong\TFODCourse\Tensorflow\workspace\images\collectedimages\chrome_zyOysQfJoz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoEntry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>777</xmin>
+			<ymin>335</ymin>
+			<xmax>827</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

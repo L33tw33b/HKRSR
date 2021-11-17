@@ -1,5 +1,8 @@
-/tfod
-/Tensorflow
+/tfod/Lib/site-packages
+#/Tensorflow
 /.ipynb_checkpoints
 /ipynb_checkpoints
 .ipynb_checkpoints
+Tensorflow/models/
+Tensorflow/labelimg/
+Tensorflow/scripts/

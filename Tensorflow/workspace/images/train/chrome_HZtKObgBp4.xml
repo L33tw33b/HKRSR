@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>chrome_HZtKObgBp4.jpg</filename>
+	<path>C:\Users\ronal\Desktop\SchoolWork_Archives\ITP4514\Hong Kong Sign Recong\TFODCourse\Tensorflow\workspace\images\collectedimages\chrome_HZtKObgBp4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoStop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>508</xmin>
+			<ymin>301</ymin>
+			<xmax>545</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>
