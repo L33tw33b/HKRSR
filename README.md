@@ -1,6 +1,6 @@
 # HKRSR (Hong Kong Road Sign Recognition) 
 <hr>
-ITP4514 EA Project Groupmates:
+ITP4514 EA Project Groupmates: 
 
 <a href="https://github.com/L33tw33b">L33tw33b</a> <br>
 <a href="https://github.com/chanmansang">chanmansang <br>
