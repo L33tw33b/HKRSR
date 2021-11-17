@@ -14,6 +14,21 @@ ITP4514 EA Project Groupmates:
 <pre>
 .\tfod\Scripts\Activate
 </pre>
+  <br/><br/>
+ <b>Step 3.</b> Install dependencies and add virtual environment to the Python Kernel
+<pre>
+python -m pip install --upgrade pip
+pip install ipykernel
+python -m ipykernel install --user --name=tfodj
+</pre>
+  <br/><br/>
+  <b>Step 4.</b> Run Jupyter Notebook by running this command:
+  <pre>
+    jupyter notebook
+  </pre>
+  <br/><br/>
+  <b>Step 5.</b>Change the kernel to the virtual environment as shown below
+ <img src="https://i.imgur.com/8yac6Xl.png"> 
 <hr>
 <p>Credits goes to:<a href="https://github.com/nicknochnack">Nicholas Renotte</a>. 
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
