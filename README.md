@@ -1,4 +1,12 @@
 # HKRSR (Hong Kong Road Sign Recognition) 
+<hr>
+ITP4514 EA Project Groupmates: 
+
+<a href="https://github.com/L33tw33b">L33tw33b</a> <br> 
+<a href="https://github.com/chanmansang">chanmansang <br>
+<a href="https://github.com/kasen724">kasen</a> <br>
+<a href="https://github.com/nog19630">nog19630</a> <br>
+<hr>
 <p>Credits goes to:<a href="https://github.com/nicknochnack">Nicholas Renotte</a>. 
 <p>This set of Notebooks provides a complete set of code to be able to train and leverage your own custom object detection model using the Tensorflow Object Detection API. This accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/nicholasrenotte">YouTube channel</a>. 
 <br />
