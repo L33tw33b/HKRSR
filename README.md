@@ -2,7 +2,7 @@
 <hr>
 ITP4514 EA Project Groupmates: 
 
-<a href="https://github.com/L33tw33b">L33tw33b</a> <br>
+<a href="https://github.com/L33tw33b">L33tw33b</a> <br> 
 <a href="https://github.com/chanmansang">chanmansang <br>
 <a href="https://github.com/kasen724">kasen</a> <br>
 <a href="https://github.com/nog19630">nog19630</a> <br>
