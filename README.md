@@ -1,13 +1,14 @@
 # HKRSR (Hong Kong Road Sign Recognition) 
+<img src = "https://i.imgur.com/22ClnOl.png">
 <hr>
 ITP4514 EA Project Groupmates: 
-
 <a href="https://github.com/L33tw33b">L33tw33b</a> <br> 
 <a href="https://github.com/chanmansang">chanmansang <br>
 <a href="https://github.com/kasen724">kasen</a> <br>
 <a href="https://github.com/nog19630">nog19630</a> <br>
 <hr>
 <b>User Guide</b>
+<br/><br/>
 <b>Step 1.</b> Clone this repository
 <br/><br/>
 <b>Step 2.</b> Run this command inside the directory
